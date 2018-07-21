@@ -12,7 +12,7 @@ modules:
     config:
         Yii2:
             configFile: 'config/test.php'
-            cleanup: true
+            cleanup: false
 
 # To enable code coverage:
 #coverage:
